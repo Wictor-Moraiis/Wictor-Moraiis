@@ -1,6 +1,6 @@
 👨‍💻 Wictor Morais
 
-Desenvolvedor Back-end | Fullstack (em evolução)
+Desenvolvedor Back-end | Fullstack
 Java • Spring Boot • C# • PHP • APIs REST
 
 🚀 Sobre mim
